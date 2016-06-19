@@ -1,2 +1,4 @@
 # hello-world
-just a repository for practice
+
+Hi
+I'm a new guy about coding.
